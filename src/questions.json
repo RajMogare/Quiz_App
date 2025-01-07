@@ -1,0 +1,305 @@
+{
+  "html": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Which tag is used for creating hyperlinks in HTML?",
+      "options": ["<link>", "<a>", "<href>", "<hyperlink>"],
+      "answer": "<a>"
+    },
+    {
+      "id": 3,
+      "question": "Which tag is used to insert a line break in HTML?",
+      "options": ["<lb>", "<break>", "<br>", "<line>"],
+      "answer": "<br>"
+    },
+    {
+      "id": 4,
+      "question": "Which attribute is used to provide an alternative text for an image?",
+      "options": ["src", "alt", "title", "description"],
+      "answer": "alt"
+    },
+    {
+      "id": 5,
+      "question": "What is the correct way to specify a heading tag for the largest heading?",
+      "options": ["<h1>", "<header>", "<head>", "<h6>"],
+      "answer": "<h1>"
+    },
+    {
+      "id": 6,
+      "question": "Which tag is used to define a table row in HTML?",
+      "options": ["<th>", "<tr>", "<td>", "<row>"],
+      "answer": "<tr>"
+    },
+    {
+      "id": 7,
+      "question": "Which tag is used to embed a video in HTML?",
+      "options": ["<video>", "<media>", "<embed>", "<movie>"],
+      "answer": "<video>"
+    },
+    {
+      "id": 8,
+      "question": "Which tag is used to create an unordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "answer": "<ul>"
+    },
+    {
+      "id": 9,
+      "question": "What does the <title> tag in HTML specify?",
+      "options": [
+        "The title of the document",
+        "The heading of the page",
+        "The footer of the page",
+        "The body content"
+      ],
+      "answer": "The title of the document"
+    },
+    {
+      "id": 10,
+      "question": "Which attribute is used to specify the URL of a linked document in the <a> tag?",
+      "options": ["link", "href", "url", "src"],
+      "answer": "href"
+    }
+  ],
+  "css": [
+    {
+      "id": 1,
+      "question": "What does CSS stand for?",
+      "options": [
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 2,
+      "question": "Which property is used to change the background color?",
+      "options": ["color", "background-color", "bgcolor", "background"],
+      "answer": "background-color"
+    },
+    {
+      "id": 3,
+      "question": "Which property is used to change the text color in CSS?",
+      "options": ["text-color", "color", "font-color", "foreground"],
+      "answer": "color"
+    },
+    {
+      "id": 4,
+      "question": "Which property is used to change the font size?",
+      "options": ["font-style", "font-weight", "font-size", "text-size"],
+      "answer": "font-size"
+    },
+    {
+      "id": 5,
+      "question": "Which property is used to add space inside the element’s border?",
+      "options": ["margin", "padding", "spacing", "border-spacing"],
+      "answer": "padding"
+    },
+    {
+      "id": 6,
+      "question": "Which CSS property controls the stacking order of elements?",
+      "options": ["z-index", "order", "stack", "position"],
+      "answer": "z-index"
+    },
+    {
+      "id": 7,
+      "question": "Which property is used to change the text alignment?",
+      "options": ["align", "text-align", "alignment", "justify"],
+      "answer": "text-align"
+    },
+    {
+      "id": 8,
+      "question": "Which unit is relative to the font size of the root element?",
+      "options": ["em", "px", "rem", "%"],
+      "answer": "rem"
+    },
+    {
+      "id": 9,
+      "question": "Which property is used to make a container flex?",
+      "options": ["display", "flex-direction", "flex", "align-items"],
+      "answer": "display"
+    },
+    {
+      "id": 10,
+      "question": "Which property is used to apply rounded corners to an element?",
+      "options": ["border", "corner", "border-radius", "round"],
+      "answer": "border-radius"
+    }
+  ],
+  "javascript": [
+    {
+      "id": 1,
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "options": ["var", "let", "const", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 2,
+      "question": "Which method is used to write content to the document in JavaScript?",
+      "options": [
+        "document.write()",
+        "console.log()",
+        "alert()",
+        "write.document()"
+      ],
+      "answer": "document.write()"
+    },
+    {
+      "id": 3,
+      "question": "Which method is used to add an element to the end of an array?",
+      "options": ["push()", "pop()", "shift()", "unshift()"],
+      "answer": "push()"
+    },
+    {
+      "id": 4,
+      "question": "What does the 'typeof' operator do in JavaScript?",
+      "options": [
+        "Checks type of a variable",
+        "Converts data types",
+        "Declares a variable",
+        "None of the above"
+      ],
+      "answer": "Checks type of a variable"
+    },
+    {
+      "id": 5,
+      "question": "What is the output of '2' + 2 in JavaScript?",
+      "options": ["4", "22", "NaN", "Error"],
+      "answer": "22"
+    },
+    {
+      "id": 6,
+      "question": "Which method is used to parse a string to an integer?",
+      "options": ["parseInt()", "parseFloat()", "Number()", "Math.parse()"],
+      "answer": "parseInt()"
+    },
+    {
+      "id": 7,
+      "question": "What is the correct way to write a function in JavaScript?",
+      "options": [
+        "function: myFunction()",
+        "function myFunction()",
+        "myFunction(): function",
+        "def myFunction()"
+      ],
+      "answer": "function myFunction()"
+    },
+    {
+      "id": 8,
+      "question": "Which statement is used to terminate a loop?",
+      "options": ["break", "exit", "terminate", "stop"],
+      "answer": "break"
+    },
+    {
+      "id": 9,
+      "question": "What will 'null === undefined' return?",
+      "options": ["true", "false", "undefined", "Error"],
+      "answer": "false"
+    },
+    {
+      "id": 10,
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "options": ["onmouseover", "onchange", "onclick", "onmouseclick"],
+      "answer": "onclick"
+    }
+  ],
+  "accessibility": [
+    {
+      "id": 1,
+      "question": "What does ARIA stand for?",
+      "options": [
+        "Accessible Rich Internet Applications",
+        "Accessible Resources for Internet Access",
+        "Application Rich Internet Access",
+        "Accessible Roles for Internet Applications"
+      ],
+      "answer": "Accessible Rich Internet Applications"
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the alt attribute in images?",
+      "options": [
+        "To style images",
+        "To describe the image for screen readers",
+        "To change image size",
+        "To set a caption"
+      ],
+      "answer": "To describe the image for screen readers"
+    },
+    {
+      "id": 3,
+      "question": "Which ARIA attribute is used to describe the current state of a toggle button?",
+      "options": ["aria-label", "aria-pressed", "aria-hidden", "aria-expanded"],
+      "answer": "aria-pressed"
+    },
+    {
+      "id": 4,
+      "question": "Which HTML tag is best suited for navigation links?",
+      "options": ["<div>", "<section>", "<nav>", "<footer>"],
+      "answer": "<nav>"
+    },
+    {
+      "id": 5,
+      "question": "What does WCAG stand for?",
+      "options": [
+        "Web Content Accessibility Guidelines",
+        "Website Content Accessibility Guide",
+        "Web Collaboration Accessibility Guidelines",
+        "World Content Accessibility Guidelines"
+      ],
+      "answer": "Web Content Accessibility Guidelines"
+    },
+    {
+      "id": 6,
+      "question": "What is a semantic HTML element?",
+      "options": [
+        "An element that defines the meaning of content",
+        "An element with style",
+        "An element with a unique ID",
+        "None of the above"
+      ],
+      "answer": "An element that defines the meaning of content"
+    },
+    {
+      "id": 7,
+      "question": "Which attribute hides an element from assistive technologies?",
+      "options": ["hidden", "aria-hidden", "visibility", "display"],
+      "answer": "aria-hidden"
+    },
+    {
+      "id": 8,
+      "question": "Which attribute provides a text alternative for screen readers?",
+      "options": ["alt", "title", "aria-label", "aria-labelledby"],
+      "answer": "aria-label"
+    },
+    {
+      "id": 9,
+      "question": "Which element is used to define a table caption?",
+      "options": ["<th>", "<tr>", "<caption>", "<table-caption>"],
+      "answer": "<caption>"
+    },
+    {
+      "id": 10,
+      "question": "What is the main purpose of a skip link?",
+      "options": [
+        "To jump to the main content",
+        "To reload the page",
+        "To skip a video",
+        "To skip all headers"
+      ],
+      "answer": "To jump to the main content"
+    }
+  ]
+}
